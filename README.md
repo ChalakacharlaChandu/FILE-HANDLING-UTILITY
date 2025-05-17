@@ -88,4 +88,8 @@ Feel free to fork the repository, make improvements, and submit pull requests. C
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+###OUTPUT1:
 ![Image](https://github.com/user-attachments/assets/88ea6650-f4c4-44a8-bb88-303564ff79cf)
+
+###OUTPUT2:
+![Image](https://github.com/user-attachments/assets/9af55620-0df9-486d-bedb-6c8ae19a364e)
