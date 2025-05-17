@@ -84,9 +84,6 @@ This repository showcases a set of Java programs that demonstrate fundamental fi
 
 Feel free to fork the repository, make improvements, and submit pull requests. Contributions are welcome to expand the functionality or optimize the existing code.
 
-#### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 OUTPUT1:
 ![Image](https://github.com/user-attachments/assets/88ea6650-f4c4-44a8-bb88-303564ff79cf)
